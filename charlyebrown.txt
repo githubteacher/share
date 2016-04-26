@@ -1,1 +1,2 @@
+Added tests
 Hello from ajmelnic (Andy Melnick).
